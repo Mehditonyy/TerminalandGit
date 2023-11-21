@@ -1,0 +1,16 @@
+.planet-container {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  #planets-container {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  
